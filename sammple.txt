@@ -1,1 +1,2 @@
-first line written in master branch - commit 1
+first line written in local repo - commit 1
+second line written in local repo - commit 2
